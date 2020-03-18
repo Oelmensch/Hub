@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 858174a15240abf49870683e06254dde
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ambientClip: {instanceID: 0}
+  - musicClip: {instanceID: 0}
+  - levelStingClip: {instanceID: 0}
+  - deathStingClip: {instanceID: 0}
+  - winStingClip: {instanceID: 0}
+  - coinStingClip: {instanceID: 0}
+  - deathClip: {instanceID: 0}
+  - jumpClip: {instanceID: 0}
+  - jumpVoiceClip: {instanceID: 0}
+  - deathVoicClip: {instanceID: 0}
+  - coinVoiceClip: {instanceID: 0}
+  - winVoiceClip: {instanceID: 0}
+  - ambientGroup: {instanceID: 0}
+  - musicGroup: {instanceID: 0}
+  - stingGroup: {instanceID: 0}
+  - playerGroup: {instanceID: 0}
+  - voiceGroup: {instanceID: 0}
+  - audioMixer: {fileID: 24100000, guid: 1f1bd2786f719394fa345679d40c4e8c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
